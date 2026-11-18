@@ -1,9 +1,13 @@
  Campaign intelligence - Marketing Campaign Analysis
+ 
  Project Overview 
- Campaign intelligence is a power bi project focused on analyzing customer demographics, purchasing behavior, spending patterns and marketing campaign responses.The report provides insights into custumer characteristics, purchasing preferences and campaign acceptance.
+ Campaign intelligence is a power bi project focused on analyzing customer demographics, purchasing behavior, spending patterns and marketing campaign responses.
+ The report provides insights into custumer characteristics, purchasing preferences and campaign acceptance.
 The report is Structured into three analytical pages: Campaign overview, Customer insights and Campaign effectiveness.
+
 Business Objective
  The objective of this project was to explore customer data, understand purchasing patterns and examine campaign response behavior to identify insights that could support marketing decision making.
+ 
 Dataset Overview
 - Total customer records;2240
 - Missing income values;24
@@ -58,8 +62,9 @@ Key findings:-
 - Customer spending and campaign acceptance patterns varied across demographic groups.
  Project Screenshots:
  Screenshots of the three power B I report pages will be included in this repository.
+
 Conclusion:
 This project demonstrates the use of Power BI to transform customer data into visual insights through KPI reporting, Customer segmentation, Spending analysis and campaign response analysis.
+
 The analysis provides a foundation for further exploration of customer behavior and marketing performance.
-This project is for portfolio and analytical demonstration purposes findings reflect patterns within the data sets and do not establish causation.
 
